@@ -1,0 +1,13 @@
+# Software Analyzer
+
+A simple software inventory and security dashboard.
+
+## Files
+- backend/main.py
+- requirements.txt
+
+## Run
+```bash
+pip install -r requirements.txt
+python backend/main.py
+```
